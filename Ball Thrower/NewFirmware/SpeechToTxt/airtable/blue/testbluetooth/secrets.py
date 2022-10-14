@@ -1,0 +1,3 @@
+
+ATappkey= "AirtableAppKey"
+ATdocID='BaseID'
